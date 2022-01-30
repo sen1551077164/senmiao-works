@@ -1,39 +1,24 @@
-# senmiao works
+# 森渺的部分项目展示
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## 小程序服务端项目
 
-#### 软件架构
-软件架构说明
+###1.武夷校园
+项目概述：武夷校园是一款在线校园交友的微信小程序，该小程序最大的亮点就是用户内容话题化，同时只有通过本校认证后才可以发布内容，可以非常方便地让本校学生了解到本校的校园日常、快速适应并融入大学校园生活。
 
+技术栈：SpringBoot+SpringMVC+Mybatis+MySQL+Atomikos+Redis
 
-#### 安装教程
+上线时长：1个月
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+扫描下方二维码可查看
+![img.png](QRcode/wuYiCampusQR.png)
 
-#### 使用说明
+###2.给它家微信小程序
+项目概述：给它家是一个集寻宠、寻主、领养、交流功能于一体的微信小程序，为爱心人士提供一个信息交流、分享记录救助经历、直连动保机构的平台；同时也为动物保护机构提供一个直面爱心人士的推广互动渠道并提供活动与机构与收容动物的电子化管理服务。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+技术栈：SpringBoot+SpringMVC+Mybatis+MySQL+Redis+FastDFS
 
-#### 参与贡献
+上线时长：两年
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+扫描下方二维码可查看
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![img.png](QRcode/giveItHomeQR.png)
