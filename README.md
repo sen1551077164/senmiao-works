@@ -38,6 +38,6 @@
 
 智能人力资源管理系统是基于saas模式的人力资源管理系统。它不同于传统的人力资源软件应用，管理者只需打开 浏览器即可管理上百人的薪酬、绩效、社保、入职离职等。
 
-技术栈：Spring Cloud+Eureka+Feign+SpringMVC+JPA+Redis+MySQL+Shiro+Activiti+POI+JasperReports
+技术栈：SpringCloud+Eureka+Feign+SpringMVC+JPA+Redis+MySQL+Shiro+Activiti+POI+JasperReports
 
 访问链接：暂未上线
