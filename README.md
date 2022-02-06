@@ -14,7 +14,7 @@
 
 扫描下方二维码可查看
 
-![img.png](QRcode/wuYiCampusQR.png)
+![img.png](https://gitee.com/sen1551077164/senmiao-works/raw/master/QRcode/wuYiCampusQR.png)
 
 ### 2.给它家
 
@@ -28,7 +28,7 @@
 
 扫描下方二维码可查看
 
-![img.png](QRcode/giveItHomeQR.png)
+![img.png](https://gitee.com/sen1551077164/senmiao-works/raw/master/QRcode/giveItHomeQR.png)
 
 ## PC端项目
 
