@@ -41,3 +41,16 @@
 技术栈：SpringCloud+Eureka+Feign+SpringMVC+JPA+Redis+MySQL+Shiro+Activiti+POI+JasperReports
 
 访问链接：暂未上线
+
+### 2.融合云平台管理系统
+
+项目概述：
+
+融合云平台管理系统可以管理多种云平台，如OpenStack、UccStack（公司自研）、Kubernetes，负责管理云平
+台下的终端、桌面等资源。其中包含Web管理端与多种操作系统客户端的交互。
+
+技术栈：SpringCloud Alibaba+SpringSecurity Oauth2.0+XXLJob+ELK+Canal+Kubernetes
+
+技术栈总览图：
+
+![img.png](https://gitee.com/sen1551077164/senmiao-works/raw/master/image/as6-tech-stack.jpg)
